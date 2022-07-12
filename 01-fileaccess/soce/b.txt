@@ -1,0 +1,142 @@
+
+Home
+Features
+How it works
+Dashboard
+Pricing
+Support
+Blog
+Docs
+What's New
+Login
+Github
+Close Menu
+
+Cypress.io
+Features
+How it works
+Dashboard
+Pricing
+Support
+Blog
+Docs
+What's New
+Login
+Sign up
+Testing has been broken for too long.
+We figured it was time to fix it.
+Until now, end-to-end testing wasn’t easy. It was the part developers hated.
+Not anymore. Cypress makes setting up, writing, running and debugging tests easy.
+
+"Can't say enough about @Cypress_io! Makes testing modern and legacy code a snap. The GUI tools are amazing and the CLI just works. Having a video of each test spec is 🤩" - Nick DeNardis
+Before Cypress
+Choose a framework
+Mocha
+JasmineQUnit
+Karma
+Choose an assertion library
+Chai
+Expect.js
+Install
+Selenium
+Choose a Selenium wrapper
+Protractor
+NightwatchWebdriver
+Add additional libraries
+Sinon
+TestDouble
+vs
+monitor
+End-to-end tests
+
+✨ With Cypress ✨
+Cypress.io
+All-in-one testing framework, assertion library, with mocking and stubbing, all without Selenium.
+
+7 ways Cypress is different:
+1Cypress does not use Selenium.
+Most end-to-end testing tools are Selenium-based, which is why they all share the same problems. To make Cypress different, we built a new architecture from the ground up. Whereas Selenium executes remote commands through the network, Cypress runs in the same run-loop as your application.
+
+2Cypress focuses on doing end-to-end testing REALLY well.
+Cypress is not a general automation framework, nor is it a unit testing framework for your back end services. There are already great tools out there that do that. Rather, we specialize in one thing - creating a great experience while you write end to end tests for your web applications.
+
+3Cypress works on any front-end framework or website.
+Cypress tests anything that runs in a web browser. All of the architecture surrounding Cypress is built to handle modern JavaScript frameworks especially well. We have hundreds of projects using the latest React, Angular, Vue, Elm, etc. frameworks. Cypress also works equally well on older server rendered pages or applications.
+
+4Cypress tests are only written in JavaScript.
+While you can compile down to JavaScript from any other language, ultimately the test code is executed inside the browser itself. There are no language or driver bindings - there is and will only ever be just JavaScript.
+
+5Cypress is all in one.
+Writing end-to-end tests takes a lot of different tools to work together. With Cypress you get . There is no need to install 10 separate tools and libraries to get your test suite set up. We have taken some of the best-in-class tools you are likely already familiar with and made them all work together seamlessly.
+
+6Cypress is for developers and QA engineers.
+One of our goals was to make test-driven development a reality for end-to-end testing. Cypress is at its best when you use it as you build your application. We give you the power to code as fast as possible.
+
+7Cypress runs much, much faster.
+These architectural improvements unlock the ability to do TDD with full end-to-end tests for the very first time. Cypress has been built so that testing and development can happen simultaneously. You can develop faster while driving the entire dev process with tests because: you can see your application; you still have access to the developer tools; and changes are reflected in real time. The end result is that you will have developed more, your code will be better, and it will be completely tested. If you opt for our , parallelization and automated load balancing will further supercharge your test speeds.
+
+Key Differences
+For those wanting to understand a bit more...
+
+The architecture is completely different.
+Most testing tools operate by running outside of the browser and executing remote commands across the network. Cypress is the exact opposite. Cypress is executed in the same run loop as your application. Behind Cypress is a Node.js server process. Cypress and the Node.js process constantly communicate, synchronize, and perform tasks on behalf of each other. Having access to both parts (front and back) gives us the ability to respond to your application's events in real time, while at the same time work outside of the browser for tasks that require a higher privilege.
+
+Cypress also operates at the network layer by reading and altering web traffic on the fly. This enables Cypress to not only modify everything coming in and out of the browser, but also to change code that may interfere with its ability to automate the browser.
+
+Cypress ultimately controls the entire automation process from top to bottom, which puts it in the unique position of being able to understand everything happening in and outside of the browser. This means Cypress is capable of delivering more consistent results than any other testing tool.
+
+Because Cypress is installed locally on your machine, it can additionally tap into the operating system itself for automation tasks. This makes performing tasks such as taking screenshots, recording videos, general file system operations and network operations possible.
+Cypress has native access to everything.
+A whole new kind of testing is possible.
+You can programmatically take shortcuts.
+Cypress is not flaky.
+Debuggability is first class.
+Ready to try Cypress?
+
+$
+npm install cypress
+or Download now 
+Install Cypress for Mac, Linux, or Windows, then get started.
+
+Take a look at our products
+Our Test Runner is packed with amazing features that you won’t find anywhere else. And our Dashboard Service will transform how you test in CI.
+
+Read our docs
+We have awesome documentation covering absolutely everything you need to know about testing with Cypress. Check it out here
+
+Talk with us
+Our fantastic open source community is super active on Gitter chat and Stack Overflow. Join us!
+
+Get Started
+Why Cypress
+Install Cypress
+Write your first test
+Test your app
+Support
+Documentation
+Chat
+FAQ
+Examples
+Developers
+Status site
+Contribute
+Changelog
+Roadmap
+Ambassadors
+Company
+About
+Testimonials
+Case Studies
+Security
+Careers
+Events
+Media
+Send updates to my inbox*
+
+Your email address
+Subscribe
+© 2022 Cypress.io •
+Privacy
+•
+Terms of Use
+
